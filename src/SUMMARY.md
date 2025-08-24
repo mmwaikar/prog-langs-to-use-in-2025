@@ -1,4 +1,5 @@
 # Summary
 
-- [Strategy](./1-strategy.md)
-- [Myths](./2-myths.md)
+- [Trvia][./1-language-trivia.md]
+- [Strategy](./2-strategy.md)
+- [Myths](./3-myths.md)
